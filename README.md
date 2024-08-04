@@ -7,5 +7,16 @@ This Node.js backend API fetches and updates stock prices periodically using a c
 1. **Clone the repository:**
 2. **Intall the Packages using npm install**
 3. **For Starting the project command npm run dev:watch**
-4. **Start the cron job using #localhost:3030/start# api**
-5. **for fetching the prices hit #getPrice# api**
+4. **Start the cron job using *localhost:3030/start* api**
+5. **for fetching the prices hit *getPrice* api**
+
+# Stock Price Frontend
+
+## steps 
+
+1. **Clone the repository:**
+2. **Intall the Packages using npm install**
+3. **Start the project using npm run dev**
+4. **hit the localhost:3000/dashboard api**
+
+#Thanks
